@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605080243233HD7IK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508024323NIV3BK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>LA MAGIA DE MI NOMBRE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA &quot;El nombre&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MARÍA JOSÉ VILLENA RODRÍGUEZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>La siguiente SdA ha sido creada por María José Villena Rodríguez, como producto final para el curso de Competencia Digital Nivel B2. Año 2026</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: cc0 1.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/publicdomain/zero/1.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778200991289</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>playwrite-es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>footer</key>
+    <value>La presente SdA denominada &quot;LA MAGIA DE MI NOMBRE&quot;, ha sido creada por María José Villena Rodríguez como producto final del Curso Competencia Digital Nivel B2. Año 2026.</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mow6yi20-h9atjl2dm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LA MAGIA DE MI NOMBRE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA MAGIA DE MI NOMBRE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA MAGIA DE MI NOMBRE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LA MAGIA DE MI NOMBRE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi20-h9atjl2dm</odePageId>
+      <odeBlockId>block-1778151679386-swq2ya7hi</odeBlockId>
+      <blockName>LA MAGIA DE MI NOMBRE</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi20-h9atjl2dm</odePageId>
+          <odeBlockId>block-1778151679386-swq2ya7hi</odeBlockId>
+          <odeIdeviceId>idevice-1778151679384-rqlwfs24k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: terminal, monaco, monospace;"><img src="{{context_path}}/content/resources/1000_F_271938873_Bwo7XWkbz9Vn6dqZ6C8dbyrVawASIbgK.jpg" width="1000" height="387" alt="" /></span></p>
+<p><br /></p>
+<h2 style="text-align: center;"><span style="font-family: terminal, monaco, monospace;"><strong>¡Hola, valientes aventureros de la clase de 4 años!</strong></span></h2>
+<p><br /></p>
+<p style="text-align: justify;"><span style="font-family: terminal, monaco, monospace;">Me han contado un secreto... me han dicho que en esta clase viven los niños y las niñas más listos/as del mundo. Por eso, os he enviado un regalo muy especial: ¡Vuestro propio nombre!</span></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><span style="font-family: terminal, monaco, monospace;">Pero, CUIDADO.... vuestro nombre no es solo una palabra. <strong>¡Es un código mágico!</strong> Si aprendéis a usarlo, podréis abrir puertas secretas, convertiros en artistas digitales y descubrir tesoros escondidos por todo el colegio.</span></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: center;"><span style="font-family: terminal, monaco, monospace;">¿Queréis convertiros en Magos y Magas de las letras? </span></p>
+<p style="text-align: center;"><span style="font-family: terminal, monaco, monospace;">¡La aventura comienza hoy!</span></p>
+<p style="text-align: center;"><span style="font-family: terminal, monaco, monospace;"><img src="{{context_path}}/content/resources/9e7fe262c5d17e2165794102b113e0ee.jpg" width="547" height="328" alt="" /></span></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="font-family: terminal, monaco, monospace;">Nuestro nombre es la palabra más especial del mundo. Vamos a descubrir sus secretos usando tablets, pizarras mágicas y mucha imaginación.</span></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778151679384-rqlwfs24k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: terminal, monaco, monospace;\"><img src=\"{{context_path}}/content/resources/1000_F_271938873_Bwo7XWkbz9Vn6dqZ6C8dbyrVawASIbgK.jpg\" width=\"1000\" height=\"387\" alt=\"\" /></span></p>\n<p><br /></p>\n<h2 style=\"text-align: center;\"><span style=\"font-family: terminal, monaco, monospace;\"><strong>¡Hola, valientes aventureros de la clase de 4 años!</strong></span></h2>\n<p><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: terminal, monaco, monospace;\">Me han contado un secreto... me han dicho que en esta clase viven los niños y las niñas más listos/as del mundo. Por eso, os he enviado un regalo muy especial: ¡Vuestro propio nombre!</span></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: terminal, monaco, monospace;\">Pero, CUIDADO.... vuestro nombre no es solo una palabra. <strong>¡Es un código mágico!</strong> Si aprendéis a usarlo, podréis abrir puertas secretas, convertiros en artistas digitales y descubrir tesoros escondidos por todo el colegio.</span></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-family: terminal, monaco, monospace;\">¿Queréis convertiros en Magos y Magas de las letras? </span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: terminal, monaco, monospace;\">¡La aventura comienza hoy!</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: terminal, monaco, monospace;\"><img src=\"{{context_path}}/content/resources/9e7fe262c5d17e2165794102b113e0ee.jpg\" width=\"547\" height=\"328\" alt=\"\" /></span></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-family: terminal, monaco, monospace;\">Nuestro nombre es la palabra más especial del mundo. Vamos a descubrir sus secretos usando tablets, pizarras mágicas y mucha imaginación.</span></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi22-la15o46ck</odePageId>
+  <odeParentPageId>page-mow6yi20-h9atjl2dm</odeParentPageId>
+  <pageName>CARACTERÍSTICAS DE LA SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CARACTERÍSTICAS DE LA SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CARACTERÍSTICAS DE LA SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi22-la15o46ck</odePageId>
+      <odeBlockId>block-1778182472979-oea4hnoyc</odeBlockId>
+      <blockName>Características de nuestra SdA</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi22-la15o46ck</odePageId>
+          <odeBlockId>block-1778182472979-oea4hnoyc</odeBlockId>
+          <odeIdeviceId>idevice-1778182472977-26oie8gad</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Para que nuestra propuesta "La Magia de mi Nombre" sea pedagógicamente sólida, debe estructurarse como una Situación de Aprendizaje (SdA). Según los marcos educativos actuales (LOMLOE), una situación de aprendizaje no es sólo una lección, sino un escenario complejo diseñado para que el alumno aprenda haciendo.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778182472977-26oie8gad","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Para que nuestra propuesta \"La Magia de mi Nombre\" sea pedagógicamente sólida, debe estructurarse como una Situación de Aprendizaje (SdA). Según los marcos educativos actuales (LOMLOE), una situación de aprendizaje no es sólo una lección, sino un escenario complejo diseñado para que el alumno aprenda haciendo.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi23-5mlqdabjn</odePageId>
+  <odeParentPageId>page-mow6yi22-la15o46ck</odeParentPageId>
+  <pageName>Características de nuestra SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Características de nuestra SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Características de nuestra SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi23-5mlqdabjn</odePageId>
+      <odeBlockId>block-1778183041776-64mxqzq2e</odeBlockId>
+      <blockName>Enlace a documento</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi23-5mlqdabjn</odePageId>
+          <odeBlockId>block-1778183041776-64mxqzq2e</odeBlockId>
+          <odeIdeviceId>idevice-1778183041775-zgililcdz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p><span style="font-family: 'comic sans ms', sans-serif;">A continuación se incluye el enlace al documento que recoge todas las características de la SdA que se estará trabajando en las siguientes semanas</span></p>
+<table class="exe-table exe-package-info" height="281" style="width: 108.521%;"><caption title="Caracteristicas de nuestra SdA"><span style="font-size: 8pt;"><a href="https://docs.google.com/document/d/1_YOja5xKNTalZanskmBXEjjkcQmA1ZkDKsC5IKkDaxA/edit?usp=sharing" title="Caracteristicas de nuestra SdA" target="_blank" rel="noopener">https://docs.google.com/document/d/1_YOja5xKNTalZanskmBXEjjkcQmA1ZkDKsC5IKkDaxA/edit?usp=sharing</a><a href="https://docs.google.com/document/d/1_YOja5xKNTalZanskmBXEjjkcQmA1ZkDKsC5IKkDaxA/edit?usp=sharing" title="Caracteristicas de nuestra SdA" target="_blank" rel="noopener">https://docs.google.com/document/d/1_YOja5xKNTalZanskmBXEjjkcQmA1ZkDKsC5IKkDaxA/edit?usp=sharing</a>Información general sobre este recurso educativo</span></caption>
+<tbody>
+<tr>
+<th style="width: 24.6756%;"><span style="font-size: 8pt;">Título</span></th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">LA MAGIA DE MI NOMBRE</span></td>
+</tr>
+<tr>
+<th style="width: 24.6756%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 24.6756%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">MARÍA JOSÉ VILLENA RODRÍGUEZ</span></td>
+</tr>
+<tr>
+<th style="width: 24.6756%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">https://docs.google.com/document/d/1_YOja5xKNTalZanskmBXEjjkcQmA1ZkDKsC5IKkDaxA/edit?usp=sharing</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi23-j39g0dfuj</odePageId>
+  <odeParentPageId>page-mow6yi20-h9atjl2dm</odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi23-j39g0dfuj</odePageId>
+      <odeBlockId>block-1778187622145-da5pd9qdw</odeBlockId>
+      <blockName>Nuestra línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi23-j39g0dfuj</odePageId>
+          <odeBlockId>block-1778187622145-da5pd9qdw</odeBlockId>
+          <odeIdeviceId>idevice-1778187622144-yjkhhaj9t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;" title="">En este apartado podremos acceder a través del siguiente enlace a nuestra línea temporal, en la cuál podremos ver la secuenciación de nuestros contenido y su distribución en el tiempo.</span></p>
+<p><span style="text-decoration: underline;"><span style="font-family: 'comic sans ms', sans-serif;" title=""><a href="https://canva.link/u9rcienl751z6d7">NUESTRA LÍNEA TEMPORAL</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778187622144-yjkhhaj9t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">En este apartado podremos acceder a través del siguiente enlace a nuestra línea temporal, en la cuál podremos ver la secuenciación de nuestros contenido y su distribución en el tiempo.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\"><a href=\"https://canva.link/u9rcienl751z6d7\">NUESTRA LÍNEA TEMPORAL</a></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi24-6m6oefls1</odePageId>
+  <odeParentPageId>page-mow6yi20-h9atjl2dm</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi24-6m6oefls1</odePageId>
+      <odeBlockId>block-1778187915963-4bjby3il3</odeBlockId>
+      <blockName>NUESTRA GUÍA DIDÁCTICA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi24-6m6oefls1</odePageId>
+          <odeBlockId>block-1778187915963-4bjby3il3</odeBlockId>
+          <odeIdeviceId>idevice-1778187915962-lpqqbmjem</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">En este apartado, podremos encontrar un documento donde se recoge la guía didáctica elaborada sobre nuestra situación de aprendizaje. En ella podemos encontrar los siguientes apartados:</span></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">IDENTIFICACIÓN Y JUSTIFICACIÓN</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">OBJETIVOS DE ETAPA</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">COMPETENCIAS ESPECÍFICAS Y CRITERIOS DE EVALUACIÓN</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">SABERES BÁSICOS</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">METODOLOGÍA Y SECUENCIA DIDÁCTICA</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">ORGANIZACIÓN DEL ESPACIO Y EL TIEMPO</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">ATENCIÓN A LA DIVERSIDAD</span></li>
+<li style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">EVALUACIÓN Y SEGUIMIENTO</span><span style="font-family: 'comic sans ms', sans-serif;"></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Para poder ver nuestra guía didáctica desarrolla y al completo, haz clik en el siguiente enlace.</span></p>
+<p><span style="text-decoration: underline;"><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://docs.google.com/document/d/1NasXJT3OlMv4NSTZ5s48qhzW8926SJVOSwzbc1i7Mos/edit?usp=sharing" target="_blank" rel="noopener" title="">NUESTRA GUÍA DIDÁCTICA: LA MAGIA DE MI NOMBRE</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778187915962-lpqqbmjem","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">En este apartado, podremos encontrar un documento donde se recoge la guía didáctica elaborada sobre nuestra situación de aprendizaje. En ella podemos encontrar los siguientes apartados:</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">IDENTIFICACIÓN Y JUSTIFICACIÓN</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">OBJETIVOS DE ETAPA</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">COMPETENCIAS ESPECÍFICAS Y CRITERIOS DE EVALUACIÓN</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">SABERES BÁSICOS</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">METODOLOGÍA Y SECUENCIA DIDÁCTICA</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">ORGANIZACIÓN DEL ESPACIO Y EL TIEMPO</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">ATENCIÓN A LA DIVERSIDAD</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">EVALUACIÓN Y SEGUIMIENTO</span><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Para poder ver nuestra guía didáctica desarrolla y al completo, haz clik en el siguiente enlace.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://docs.google.com/document/d/1NasXJT3OlMv4NSTZ5s48qhzW8926SJVOSwzbc1i7Mos/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">NUESTRA GUÍA DIDÁCTICA: LA MAGIA DE MI NOMBRE</a></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi24-yp8137m31</odePageId>
+  <odeParentPageId>page-mow6yi20-h9atjl2dm</odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi24-yp8137m31</odePageId>
+      <odeBlockId>block-1778188407359-zrymg50cg</odeBlockId>
+      <blockName>NUESTROS INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi24-yp8137m31</odePageId>
+          <odeBlockId>block-1778188407359-zrymg50cg</odeBlockId>
+          <odeIdeviceId>idevice-1778188407358-ymx0dbpuc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 18pt; font-family: 'comic sans ms', sans-serif;"><strong>Elegimos y creamos los instrumentos de evaluación</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">En este apartado voy a explicar los instrumentos de evaluación que vamos a usar en la SdA, denominada "La Magia de mi nombre" para evaluarnos.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">El primer instrumento del que voy a hacer uso es una escala de valoración en la que he introducido los criterios de evaluación y donde he establecido los distintos grados de consecución de los mismos, siendo estos: no adecuado, adecuado, bueno y excelente. He creado para el mismo un google formulario, aunque resaltaré que día a día hago más uso del Cuaderno de Séneca. </span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">En el siguiente enlace podéis encontrar dicho formulario.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; font-family: 'comic sans ms', sans-serif;"><a href="https://forms.gle/w8h9xX58hFvN19f88" title="">FORMULARIO EVALUACIÓN ALUMNADO</a></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; font-family: 'comic sans ms', sans-serif;"></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">El segundo instrumento de evaluación que vamos a usar es un registro anecdótico, dividido en apartados que rellenaría de forma manual. En éste se recogerán conductas, intereses y actitudes que pueda observar durante las actividades y no estén reflejados en los criterios de evaluación de las mismas. He creado un google formulario para poder elaborar este registro. Podéis encontrarlo en el siguiente enlace:</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span></p>
+<p style="text-align: justify;"><a href="https://forms.gle/qJ6Tm5Zbhx4F5Xtz9" title=""><span style="text-decoration: underline; font-family: 'comic sans ms', sans-serif;">FORMULARIO REGISTRO ANECDÓTICO</span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778188407358-ymx0dbpuc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 18pt; font-family: 'comic sans ms', sans-serif;\"><strong>Elegimos y creamos los instrumentos de evaluación</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">En este apartado voy a explicar los instrumentos de evaluación que vamos a usar en la SdA, denominada \"La Magia de mi nombre\" para evaluarnos.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El primer instrumento del que voy a hacer uso es una escala de valoración en la que he introducido los criterios de evaluación y donde he establecido los distintos grados de consecución de los mismos, siendo estos: no adecuado, adecuado, bueno y excelente. He creado para el mismo un google formulario, aunque resaltaré que día a día hago más uso del Cuaderno de Séneca. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">En el siguiente enlace podéis encontrar dicho formulario.</span></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline; font-family: 'comic sans ms', sans-serif;\"><a href=\"https://forms.gle/w8h9xX58hFvN19f88\" title=\"\">FORMULARIO EVALUACIÓN ALUMNADO</a></span></p>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: underline; font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El segundo instrumento de evaluación que vamos a usar es un registro anecdótico, dividido en apartados que rellenaría de forma manual. En éste se recogerán conductas, intereses y actitudes que pueda observar durante las actividades y no estén reflejados en los criterios de evaluación de las mismas. He creado un google formulario para poder elaborar este registro. Podéis encontrarlo en el siguiente enlace:</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p style=\"text-align: justify;\"><a href=\"https://forms.gle/qJ6Tm5Zbhx4F5Xtz9\" title=\"\"><span style=\"text-decoration: underline; font-family: 'comic sans ms', sans-serif;\">FORMULARIO REGISTRO ANECDÓTICO</span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi25-3qxnruhr3</odePageId>
+  <odeParentPageId>page-mow6yi20-h9atjl2dm</odeParentPageId>
+  <pageName>DIFERENTES RECURSOS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIFERENTES RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIFERENTES RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi25-3qxnruhr3</odePageId>
+      <odeBlockId>block-1778190114294-dl7ht1700</odeBlockId>
+      <blockName>Recursos para alumnado y docentes</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi25-3qxnruhr3</odePageId>
+          <odeBlockId>block-1778190114294-dl7ht1700</odeBlockId>
+          <odeIdeviceId>idevice-1778190114293-4e39n8624</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;" title="">En el siguiente apartado podremos encontrar dos enlaces diferentes, en los cuales he realizado una selección de recursos tanto para el alumnado como para nosotros los docentes.</span></p>
+<p></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;" title="">- ALUMNADO: <a href="https://www.symbaloo.com/shared/AAAAA_gblPcAA41_W3RJpQ==#:~:text=Maria,-José%20Villena%20Rodríguez">SYMBALOO</a></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;" title="">- DOCENTES: <a href="https://padlet.com/mariajosevillenarodriguez/la-magia-de-mi-nombre-hh4wu2nu8dumouoy">PADLET LA MAGIA DE MI NOMBRE</a></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Puedes tener acceso a ellos haciendo clik.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778190114293-4e39n8624","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">En el siguiente apartado podremos encontrar dos enlaces diferentes, en los cuales he realizado una selección de recursos tanto para el alumnado como para nosotros los docentes.</span></p>\n<p></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">- ALUMNADO: <a href=\"https://www.symbaloo.com/shared/AAAAA_gblPcAA41_W3RJpQ==#:~:text=Maria,-José%20Villena%20Rodríguez\">SYMBALOO</a></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">- DOCENTES: <a href=\"https://padlet.com/mariajosevillenarodriguez/la-magia-de-mi-nombre-hh4wu2nu8dumouoy\">PADLET LA MAGIA DE MI NOMBRE</a></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Puedes tener acceso a ellos haciendo clik.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mow6yi26-lseuw550s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>AUTORIA Y LICENCIA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORIA Y LICENCIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORIA Y LICENCIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mow6yi26-lseuw550s</odePageId>
+      <odeBlockId>block-1778197221155-jml4nl8ek</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mow6yi26-lseuw550s</odePageId>
+          <odeBlockId>block-1778197221155-jml4nl8ek</odeBlockId>
+          <odeIdeviceId>idevice-1778197221153-igaya72yg</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption title=""><a href="file:///Users/maria/Desktop/%20CURSO%20COMPETENCIA%20DIGITAL%20B2/index.html">LA MAGIA DE MI NOMBRE</a><br>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">LA MAGIA DE MI NOMBRE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">La siguiente SdA ha sido creada por María José Villena Rodríguez, como producto final para el curso de Competencia Digital Nivel B2. Año 2026</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">MARÍA JOSÉ VILLENA RODRÍGUEZ</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="license" class="cc cc-0"><span></span>Creative Commons CC0 1.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
